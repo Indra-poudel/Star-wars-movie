@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders snapshot as expected 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexGrow": 1,
+        "marginTop": 10,
+        "paddingHorizontal": 10,
+      },
+      undefined,
+    ]
+  }
+>
+  <Text>
+    Screen Wrapper Componet
+  </Text>
+</View>
+`;

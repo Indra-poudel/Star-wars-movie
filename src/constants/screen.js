@@ -1,0 +1,4 @@
+export default {
+  HOME_SCREEN: 'HOME_SCREEN',
+  MOVIE_DETAILS: 'MOVIE_DETAILS',
+};

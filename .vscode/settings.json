@@ -1,0 +1,4 @@
+{
+  "flow.useNPMPackagedFlow": true,
+  "flow.pathToFlow": "${workspaceFolder}/node_modules/.bin/flow",
+}

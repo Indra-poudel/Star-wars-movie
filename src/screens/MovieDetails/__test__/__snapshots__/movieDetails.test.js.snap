@@ -1,0 +1,178 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Renders snapshot as expected 1`] = `
+<View
+  style={
+    Array [
+      Object {
+        "flexGrow": 1,
+        "marginTop": 10,
+        "paddingHorizontal": 10,
+      },
+      Object {
+        "paddingHorizontal": 0,
+      },
+    ]
+  }
+>
+  <View
+    accessibilityIgnoresInvertColors={true}
+    style={
+      Object {
+        "flex": 0.5,
+        "overflow": "hidden",
+        "position": "relative",
+        "resizeMode": "contain",
+      }
+    }
+  >
+    <Image
+      source={
+        Object {
+          "process": [Function],
+        }
+      }
+      style={
+        Array [
+          Object {
+            "bottom": 0,
+            "left": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+          },
+          Object {
+            "height": undefined,
+            "width": undefined,
+          },
+          undefined,
+        ]
+      }
+    />
+    <View
+      style={
+        Object {
+          "backgroundColor": "yellow",
+          "borderRadius": 8,
+          "bottom": 10,
+          "color": "black",
+          "fontSize": 14,
+          "fontWeight": "bold",
+          "left": 10,
+          "padding": 10,
+          "position": "absolute",
+        }
+      }
+    >
+      <Text
+        style={Object {}}
+      >
+        Loading...
+      </Text>
+    </View>
+    <View
+      style={
+        Object {
+          "backgroundColor": "rgba(52, 52, 52, 0.8)",
+          "left": 10,
+          "padding": 4,
+          "position": "absolute",
+          "top": 10,
+        }
+      }
+    >
+      <Text
+        style={
+          Object {
+            "color": "#C8C8C8",
+            "fontFamily": "ProximaNova-Regular",
+            "fontSize": 14,
+            "marginTop": 12,
+          }
+        }
+      >
+        Directed by 
+        George Lucas
+      </Text>
+    </View>
+  </View>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "black",
+        "color": "white",
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "space-between",
+        "padding": 16,
+      }
+    }
+  >
+    <View>
+      <Text
+        style={
+          Object {
+            "color": "white",
+            "fontFamily": "ProximaNova-Regular",
+            "fontSize": 24,
+            "fontWeight": "bold",
+          }
+        }
+      >
+        A New Hope
+      </Text>
+      <Text
+        style={
+          Object {
+            "color": "#C8C8C8",
+            "fontFamily": "ProximaNova-Regular",
+            "fontSize": 14,
+            "marginTop": 12,
+          }
+        }
+      >
+        Released on 
+        1977-05-25
+      </Text>
+    </View>
+  </View>
+  <Text
+    style={
+      Object {
+        "backgroundColor": "rgba(52, 52, 52, 0.8)",
+        "color": "white",
+        "padding": 12,
+      }
+    }
+  >
+    List of Characters
+  </Text>
+  <RCTScrollView
+    data={Array []}
+    getItem={[Function]}
+    getItemCount={[Function]}
+    keyExtractor={[Function]}
+    onContentSizeChange={[Function]}
+    onLayout={[Function]}
+    onMomentumScrollBegin={[Function]}
+    onMomentumScrollEnd={[Function]}
+    onScroll={[Function]}
+    onScrollBeginDrag={[Function]}
+    onScrollEndDrag={[Function]}
+    removeClippedSubviews={false}
+    renderItem={[Function]}
+    scrollEventThrottle={50}
+    showsHorizontalScrollIndicator={false}
+    stickyHeaderIndices={Array []}
+    style={
+      Object {
+        "flex": 0.5,
+      }
+    }
+    viewabilityConfigCallbackPairs={Array []}
+  >
+    <View />
+  </RCTScrollView>
+</View>
+`;

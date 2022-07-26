@@ -1,0 +1,89 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Verify Api data in the component 1`] = `
+<View
+  style={
+    Object {
+      "alignItems": "center",
+      "backgroundColor": "white",
+      "borderColor": "black",
+      "borderWidth": 1,
+      "display": "flex",
+      "elevation": 5,
+      "flexDirection": "column",
+      "height": 60,
+      "justifyContent": "center",
+      "margin": 8,
+      "textAlign": "center",
+    }
+  }
+>
+  <Text
+    style={
+      Object {
+        "color": "black",
+        "fontFamily": "ProximaNova-Regular",
+        "fontSize": 18,
+        "fontWeight": "bold",
+        "textAlign": "center",
+      }
+    }
+  >
+    Loading...
+  </Text>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "display": "flex",
+        "flexDirection": "row",
+        "justifyContent": "center",
+      }
+    }
+  >
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontFamily": "ProximaNova-Regular",
+          "fontSize": 14,
+          "marginHorizontal": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      Gender:
+       
+      Loading...
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontFamily": "ProximaNova-Regular",
+          "fontSize": 14,
+          "marginHorizontal": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      |
+    </Text>
+    <Text
+      style={
+        Object {
+          "color": "black",
+          "fontFamily": "ProximaNova-Regular",
+          "fontSize": 14,
+          "marginHorizontal": 12,
+          "textAlign": "center",
+        }
+      }
+    >
+      Height:
+       
+      Loading...
+    </Text>
+  </View>
+</View>
+`;
